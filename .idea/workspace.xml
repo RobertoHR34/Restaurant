@@ -10,17 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55d4bb55-36b1-4461-a3d8-fb3cce04cb2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Restaurant.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Restaurants/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Restaurants/location.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Restaurants/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Restaurants/onlineorder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Restaurants/questionsandreviews.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +42,12 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
     <property name="javascript.nodejs.core.library.typings.version" value="12.12.69" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -71,17 +67,60 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603264610181</updated>
-      <workItem from="1603264611620" duration="1766000" />
+      <workItem from="1603264611620" duration="2528000" />
     </task>
+    <task id="LOCAL-00001" summary="I added the HTML Files only">
+      <created>1603266552637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266552637</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I added the HTML Files only">
+      <created>1603266571875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603266571875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I added the HTML Files only" />
+    <option name="LAST_COMMIT_MESSAGE" value="I added the HTML Files only" />
   </component>
   <component name="WindowStateProjectService">
     <state x="727" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603265222460">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="727" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603265222460" />
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1603266571195">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603266571195" />
+    <state width="618" height="70" key="GridCell.Tab.0.bottom" timestamp="1603266604909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
+    <state width="618" height="70" key="GridCell.Tab.0.center" timestamp="1603266604909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
+    <state width="618" height="70" key="GridCell.Tab.0.left" timestamp="1603266604909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
+    <state width="618" height="70" key="GridCell.Tab.0.right" timestamp="1603266604909">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="618" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603266577468">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603266577468" />
   </component>
 </project>
