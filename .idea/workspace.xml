@@ -10,7 +10,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55d4bb55-36b1-4461-a3d8-fb3cce04cb2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/Restaurant/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/Restaurant/orderonline.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurants/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurants/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/location.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurants/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurants/onlineorder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Restaurants/questionsandreviews.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/questionsandreviews.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +59,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\Documents\public" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
@@ -67,7 +79,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603264610181</updated>
-      <workItem from="1603264611620" duration="2528000" />
+      <workItem from="1603264611620" duration="4067000" />
     </task>
     <task id="LOCAL-00001" summary="I added the HTML Files only">
       <created>1603266552637</created>
@@ -83,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603266571875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I added the HTML Files only">
+      <created>1603267172062</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603267172062</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,29 +117,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="727" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603265222460" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1603266571195">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1603267171367">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603266571195" />
-    <state width="618" height="70" key="GridCell.Tab.0.bottom" timestamp="1603266604909">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603267171367" />
+    <state width="618" height="70" key="GridCell.Tab.0.bottom" timestamp="1603267459237">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
-    <state width="618" height="70" key="GridCell.Tab.0.center" timestamp="1603266604909">
+    <state width="618" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603267459237" />
+    <state width="618" height="70" key="GridCell.Tab.0.center" timestamp="1603267459236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
-    <state width="618" height="70" key="GridCell.Tab.0.left" timestamp="1603266604909">
+    <state width="618" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603267459236" />
+    <state width="618" height="70" key="GridCell.Tab.0.left" timestamp="1603267459236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
-    <state width="618" height="70" key="GridCell.Tab.0.right" timestamp="1603266604909">
+    <state width="618" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603267459236" />
+    <state width="618" height="70" key="GridCell.Tab.0.right" timestamp="1603267459236">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="618" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603266604909" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603266577468">
+    <state width="618" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603267459236" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603267177425">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603266577468" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603267177425" />
   </component>
 </project>
