@@ -11,62 +11,173 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </head>
 <body>
-<h1 class="display-2"> Cemitas Poblanas</h1>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-            <a class="nav-link active" href="index.html">Home<span class="sr-only">(current)</span></a>
-            <a class="nav-link" href="menu.html">Menu</a>
-            <a class="nav-link" href="location.html">Location</a>
-            <a class="nav-link" href="orderonline.html">Online Order</a>
-            <a class="nav-link" href="questionsandreviews.html">Question's and Reviews</a>
-        </div>
+<div class="row">
+    <div class="col-md-5">
+        <h1 style="padding:40px" class="display-4"> Cemitas Poblanas</h1>
     </div>
-</nav>
-<div class="container">
-    <h1 class="display-4">Online Order</h1>
+    <div class="col-md-5">
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link linksfontsize" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="menu.html">Menu</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="orderonline.html">Order Online</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="questionsandreviews.html">Q&R</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="location.html">Location</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
 </div>
-<br>
-<form>
-    <div class="container">
-        <div class="form-row">
-            <div class="col alignwithNav">
-                <input type="text" class="form-control" placeholder="First name">
-            </div>
-            <div class="col alignwithNav">
-                <input type="text" class="form-control" placeholder="Last name">
-            </div>
-        </div>
-    </div>
     <br>
-    </div>
-    <div class="container">
-        <label for="exampleFormControlSelect1">What Would You like to Order?</label>
-        <select class="form-control" id="exampleFormControlSelect1">
-            <option>Cemita</option>
-            <option>Burrito</option>
-            <option>Tacos</option>
-            <option>Plate</option>
-            <option>Fried Tacos</option>
-        </select>
-    </div>
-    <br>
-    <div class="container">
-        <button type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Choice of Meat?
-        </button>
-        <div class="container dropdown-menu">
-            <button class="dropdown-item" type="button">Beef</button>
-            <button class="dropdown-item" type="button">Chicken</button>
-            <button class="dropdown-item" type="button">Ham</button>
-        </div>
-    </div>
     <br>
 
-    <div class="form-group">
-        <label for="exampleFormControlTextarea1" style="margin: auto"> Special Request?</label>
-        <textarea class="container form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+    <div class="container">
+        <h2>Online Order &nbsp
+            <small class="text-muted">Pick-up only</small></h2>
     </div>
+
+    <br>
+
+    <form>
+        <div class="container">
+                <div class="form-row">
+
+                    <div class="col alignwithNav">
+                        <input type="text" class="form-control" placeholder="First name">
+                    </div>
+
+                    <div class="col alignwithNav">
+                        <input type="text" class="form-control" placeholder="Last name">
+                    </div>
+
+                </div>
+                </div>
+        </div>
+
+        <br>
+        <br>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                <select class="browser-default custom-select">
+                    <option selected>What would you like to order?</option>
+                    <option value="1">Cemita</option>
+                    <option value="2">Burrito</option>
+                    <option value="3">Tacos (4 Per Order)</option>
+                    <option value="4">Plate</option>
+                    <option value="5">Fried Tacos</option>
+                </select>
+                </div>
+
+                <div class="col-md-4">
+                    <select class="browser-default custom-select">
+                        <option selected>Quantity?</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                        <option value="4">4</option>
+                        <option value="5">5</option>
+                    </select>
+                </div>
+            </div>
+
+            <br>
+            <br>
+            <br>
+
+            <div class="row">
+                <div class="col-md-4">
+                    <select class="browser-default custom-select">
+                        <option selected>Choice of Meat?</option>
+                        <option value="1">Breaded Pork</option>
+                        <option value="2">Chicken</option>
+                        <option value="3">Beef</option>
+                        <option value="4">Ham</option>
+                        <option value="5">Vegetarian</option>
+                    </select>
+                </div>
+                <div class="col-md-4">
+                    <select class="browser-default custom-select">
+                        <option selected>Choice of Drink?</option>
+                        <option value="1">Coca-cola</option>
+                        <option value="2">Sprite</option>
+                        <option value="3">Dasani</option>
+                        <option value="4">Jarrito</option>
+                        <option value="5">No drink</option>
+                    </select>
+                </div>
+                    <div class="col-md-4">
+                        <select class="browser-default custom-select">
+                            <option selected>Quantity?</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                        </select>
+                    </div>
+            </div>
+            <br>
+        </div>
+        <br>
+
+        <div class="container form-group">
+            <label for="SpecialRequesForm">Special requests?</label>
+            <textarea class="container form-control" id="SpecialRequesForm" rows="5"></textarea>
+        </div>
+
+        <hr>
+
+        <div class="container">
+            <h4 class="mb-3">Payment</h4>
+
+            <div class="d-block my-3">
+                <div class="custom-control custom-radio">
+                    <input id="credit" name="paymentMethod" type="radio" class="custom-control-input">
+                    <label class="custom-control-label" for="credit">Credit card</label>
+                </div>
+                <div class="custom-control custom-radio">
+                    <input id="debit" name="paymentMethod" type="radio" class="custom-control-input">
+                    <label class="custom-control-label" for="debit">Debit card</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="cc-name">Name on card</label>
+                    <input type="text" class="form-control" id="cc-name">
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="cc-number">Credit card number</label>
+                    <input type="text" class="form-control" id="cc-number">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 mb-3">
+                    <label for="cc-expiration">Expiration</label>
+                    <input type="text" class="form-control" id="cc-expiration">
+                </div>
+                <div class="col-md-3 mb-3">
+                    <label for="cc-expiration">CVV</label>
+                    <input type="text" class="form-control" id="cc-cvv">
+                </div>
+            </div>
+</div>
+</div>
+
+    </div>
+
     <div class="container">
         <input class="btn btn-primary" type="submit" value="Submit">
         <input class="btn btn-primary" type="reset" value="Reset">
