@@ -10,22 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55d4bb55-36b1-4461-a3d8-fb3cce04cb2b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Burritos.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Burritos3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/CemitaDisplay.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Cemitas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Cemitas2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Cemitas3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Cemitas5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Platillo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/Platillo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/TacosDorados.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/TacosDorados2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/TacosDorados2.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/streetview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/Restaurant/tacos.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/Restaurant/Direcrions.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/directions.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Restaurant/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Restaurant/location.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/location.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/Restaurant/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/Restaurant/menu.html" afterDir="false" />
@@ -104,7 +89,9 @@
       <workItem from="1603438923909" duration="4335000" />
       <workItem from="1603526986255" duration="13595000" />
       <workItem from="1603606359599" duration="6174000" />
-      <workItem from="1603651516678" duration="18090000" />
+      <workItem from="1603651516678" duration="18602000" />
+      <workItem from="1603673158788" duration="563000" />
+      <workItem from="1603673866843" duration="579000" />
     </task>
     <task id="LOCAL-00001" summary="I added the HTML Files only">
       <created>1603266552637</created>
@@ -169,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603621382613</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finished website">
+      <created>1603671962002</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603671962002</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,37 +177,38 @@
     <MESSAGE value="Edited my online order page" />
     <MESSAGE value="Finished onine order and q and r" />
     <MESSAGE value="Finished Location" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Location" />
+    <MESSAGE value="Finished website" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished website" />
   </component>
   <component name="WindowStateProjectService">
     <state x="727" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603265222460">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="727" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1603265222460" />
-    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1603621381441">
+    <state x="202" y="0" key="CommitChangelistDialog2" timestamp="1603671961302">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603621381441" />
-    <state width="1237" height="70" key="GridCell.Tab.0.bottom" timestamp="1603666489434">
+    <state x="202" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603671961302" />
+    <state width="1237" height="70" key="GridCell.Tab.0.bottom" timestamp="1603672220925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603666489434" />
-    <state width="1237" height="70" key="GridCell.Tab.0.center" timestamp="1603666489433">
+    <state width="1237" height="70" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1603672220925" />
+    <state width="1237" height="70" key="GridCell.Tab.0.center" timestamp="1603672220925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603666489433" />
-    <state width="1237" height="70" key="GridCell.Tab.0.left" timestamp="1603666489432">
+    <state width="1237" height="70" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1603672220925" />
+    <state width="1237" height="70" key="GridCell.Tab.0.left" timestamp="1603672220925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603666489432" />
-    <state width="1237" height="70" key="GridCell.Tab.0.right" timestamp="1603666489434">
+    <state width="1237" height="70" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1603672220925" />
+    <state width="1237" height="70" key="GridCell.Tab.0.right" timestamp="1603672220925">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603666489434" />
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603621388272">
+    <state width="1237" height="70" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603672220925" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603671969399">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603621388272" />
+    <state x="234" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603671969399" />
     <state x="298" y="151" key="run.anything.popup" timestamp="1603539372690">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
