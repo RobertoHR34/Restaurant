@@ -6,7 +6,15 @@ div{
 
     margin: 50px;
 }
-.linksfontsize {
-
-    font-size: 15px !important;
+.alignCenter{
+    text-align: center;
+}
+hr {
+    top: 20px;
+    height: 15px;
+    background: black;
+    margin-bottom: 50px;
+}
+.alignImages{
+    margin: auto;
 }
